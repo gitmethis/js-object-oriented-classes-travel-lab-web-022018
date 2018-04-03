@@ -21,7 +21,7 @@ class Route{
     this.endingLocation = endingLocation
   }
   
-  avetoInt(){
+  avetoInt(avenue){
     return avenues.indexOf(avenue)
   }
   
