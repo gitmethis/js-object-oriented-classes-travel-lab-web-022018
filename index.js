@@ -22,7 +22,7 @@ class Route{
   }
   
   avetoInt(){
-    
+    return avenues.indexOf
   }
   
   blocksTravelled(){
