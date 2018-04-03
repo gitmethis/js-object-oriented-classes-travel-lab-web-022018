@@ -27,6 +27,6 @@ class Route{
   
   blocksTravelled(){
     let vertical_amount = this.beginningLocation.vertical - this.endingLocation.vertical
-    
+    let horizontal_amount = this.beginningLocation.horizontal.avetoInt()
   }
 }
