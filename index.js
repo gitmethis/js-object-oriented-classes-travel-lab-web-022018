@@ -15,19 +15,19 @@ class Driver{
  }
 }
 
-class Route{
-  constructor(beginningLocation, endingLocation){
-    this.beginningLocation = beginningLocation
-    this.endingLocation = endingLocation
-  }
+// class Route{
+//   constructor(beginningLocation, endingLocation){
+//     this.beginningLocation = beginningLocation
+//     this.endingLocation = endingLocation
+//   }
   
-  avetoInt(avenue){
-    return avenues.indexOf(avenue)
-  }
+//   avetoInt(avenue){
+//     return avenues.indexOf(avenue)
+//   }
   
-  // blocksTravelled(){
-  //   let vertical_amount = this.beginningLocation.vertical - this.endingLocation.vertical
-  //   let horizontal_amount = this.avetoInt(this.endingLocation.horizontal) - this.avetoInt(this.beginningLocation.horizontal)
-  //   return (Math.abs(horizontalDistance) + Math.abs(verticalDistance))
-  // }
-}
+//   // blocksTravelled(){
+//   //   let vertical_amount = this.beginningLocation.vertical - this.endingLocation.vertical
+//   //   let horizontal_amount = this.avetoInt(this.endingLocation.horizontal) - this.avetoInt(this.beginningLocation.horizontal)
+//   //   return (Math.abs(horizontalDistance) + Math.abs(verticalDistance))
+//   // }
+// }
