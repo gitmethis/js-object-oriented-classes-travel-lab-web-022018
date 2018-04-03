@@ -21,6 +21,10 @@ class Route{
     this.endingLocation = endingLocation
   }
   
+  avetoInt(){
+    
+  }
+  
   blocksTravelled(){
     
   }
